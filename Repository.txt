@@ -1,0 +1,1 @@
+Repositories in GIT contain a collection of files of various different versions of a Project. 
