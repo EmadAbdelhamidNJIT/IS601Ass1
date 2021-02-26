@@ -2,7 +2,7 @@
 
 [Explanation of Technologies for Production](https://github.com/EmadAbdelhamidNJIT/IS601Ass1/blob/feature-azra/Technologies.md) 
 
-Git FLow
+[Git FLow](https://github.com/EmadAbdelhamidNJIT/IS601Ass1/blob/feature-azra/GitWorkFlow.md)
 
 Definitions
 
