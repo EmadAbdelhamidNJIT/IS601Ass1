@@ -6,7 +6,7 @@
 
 [Definitions](https://github.com/EmadAbdelhamidNJIT/IS601Ass1/blob/feature-azra/GitDefinitions.md)
 
-Git Tutorial
+[Git Tutorial](https://github.com/EmadAbdelhamidNJIT/IS601Ass1/blob/feature-azra/GitTutorial.md)
 
 
 # Changelog 
