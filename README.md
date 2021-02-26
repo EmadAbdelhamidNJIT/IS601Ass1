@@ -4,7 +4,7 @@
 
 [Git FLow](https://github.com/EmadAbdelhamidNJIT/IS601Ass1/blob/feature-azra/GitWorkFlow.md)
 
-Definitions
+[Definitions](https://github.com/EmadAbdelhamidNJIT/IS601Ass1/blob/feature-azra/GitDefinitions.md)
 
 Git Tutorial
 
