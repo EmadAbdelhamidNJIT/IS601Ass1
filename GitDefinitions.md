@@ -10,7 +10,16 @@
 
 ## Commit
 
-## Merge
+## Merge - a git command that allows you to bring the forked history back together again
+
+Before the merge
+
+![image](https://user-images.githubusercontent.com/78187300/109909621-6bb4e580-7c74-11eb-9505-34956de62230.png)
+
+Afer the merge 
+
+![image](https://user-images.githubusercontent.com/78187300/109909680-82f3d300-7c74-11eb-9204-f178e68294df.png)
+
 
 ## Checkout
 
