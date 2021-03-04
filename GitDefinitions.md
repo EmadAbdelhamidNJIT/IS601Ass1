@@ -8,7 +8,16 @@
 
 ## Branch
 
-## Commit
+## Commit - a git command that allows you to change a file or set of files; It is like a snapshot of your project.
+
+Before the Commit 
+
+![image](https://user-images.githubusercontent.com/78187300/109912583-5fcc2200-7c7a-11eb-9c6e-f35e27c9f812.png)
+
+After the commit 
+
+![image](https://user-images.githubusercontent.com/78187300/109912614-6eb2d480-7c7a-11eb-98be-0191ca3696d3.png)
+
 
 ## Merge - a git command that allows you to bring the forked history back together again
 
