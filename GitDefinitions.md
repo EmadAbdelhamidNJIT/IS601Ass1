@@ -1,3 +1,4 @@
+![gitpicture](https://user-images.githubusercontent.com/77909953/110259241-9d7bc400-7f74-11eb-8814-8266543d1740.png)
 # Definitions 
 
 ## Repository 
@@ -62,3 +63,4 @@ In Git, "master" is a naming convention for a branch. The link for our repositor
 
 After cloning the Master (downloading) a project from a remote server, the resulting local repository has a single local branch: the so-called "master" branch. This means that "master" can be seen as a repository's "default" branch.
 
+![gitpicture](https://user-images.githubusercontent.com/77909953/110259352-34e11700-7f75-11eb-920f-966c0c74e09c.png)
