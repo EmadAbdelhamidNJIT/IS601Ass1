@@ -1,4 +1,3 @@
-![gitpicture](https://user-images.githubusercontent.com/77909953/110259241-9d7bc400-7f74-11eb-8814-8266543d1740.png)
 # Definitions 
 
 ## Repository 
