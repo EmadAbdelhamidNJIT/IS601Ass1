@@ -57,3 +57,8 @@ After Git Pull
 ## Git Status
 
 ## Master Branch
+
+In Git, "master" is a naming convention for a branch. The link for our repository for this group assignment is found https://github.com/EmadAbdelhamidNJIT/IS601Ass1.git 
+
+After cloning the Master (downloading) a project from a remote server, the resulting local repository has a single local branch: the so-called "master" branch. This means that "master" can be seen as a repository's "default" branch.
+
