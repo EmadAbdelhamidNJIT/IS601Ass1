@@ -4,9 +4,24 @@
 
 ## Clone 
 
-## Fork 
+## Fork
+ 
+Is a copy of a repository on GitHub owned by a different user. This repository is shared with new users to collaborate on. Here all parties are linked to a single project. 
 
 ## Branch
+Branches are an important part of working with Git. Any commits you make will be made on the branch you’re currently “checked out”
+
+$ git branch [branch-name]
+
+Creates a new branch
+
+$ git checkout [branch-name]
+
+Switches to the specified branch and updates the working directory
+
+$ git branch -d [branch-name]
+
+Deletes the specified branch
 
 ## Commit - a git command that allows you to change a file or set of files; It is like a snapshot of your project.
 
