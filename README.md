@@ -17,10 +17,20 @@
 
 3/3/2021: Azra Added Definitions of Push, Pull, Merge and Commit
 
-3/7/2021: Azra Added Git WorkFlow Content, & More content in Explanation of Technologies
+3/7/2021: Azra Added content to Git WorkFlow & Explanation of Technologies
+
+3/7/2021: Azra updated sources 
 
 
 
 # Sources 
 
 https://datasift.github.io/gitflow/IntroducingGitFlow.html
+
+https://www.cprime.com/resources/blog/why-automation-testing-necessary/
+
+https://www.digitalocean.com/community/tutorials/how-to-optimize-docker-images-for-production#:~:text=In%20a%20production%20environment%2C%20Docker,a%20Docker%20image%20and%20replicate
+
+https://learngitbranching.js.org/
+
+https://git-scm.com/docs/gitglossary
