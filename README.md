@@ -2,7 +2,7 @@
 
 [Explanation of Technologies for Production](https://github.com/EmadAbdelhamidNJIT/IS601Ass1/blob/feature-azra/Technologies.md) 
 
-[Git FLow](https://github.com/EmadAbdelhamidNJIT/IS601Ass1/blob/feature-azra/GitWorkFlow.md)
+[Git Flow](https://github.com/EmadAbdelhamidNJIT/IS601Ass1/blob/feature-azra/GitWorkFlow.md)
 
 [Definitions](https://github.com/EmadAbdelhamidNJIT/IS601Ass1/blob/feature-azra/GitDefinitions.md)
 
@@ -16,6 +16,8 @@
 2/25/2021: Azra added Explanation of Technologies for Production Page, Git Flow Page, Definitions Page, Git Tutorial Page
 
 3/3/2021: Azra Added Definitions of Push, Pull, Merge and Commit
+
+3/7/2021: Azra Added Git WorkFlow Content, & More content in Explanation of Technologies
 
 
 
