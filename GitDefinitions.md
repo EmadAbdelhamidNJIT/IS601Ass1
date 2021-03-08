@@ -54,6 +54,13 @@ After Git Pull
 
 ## Remote Add/ Remove/ Show
 
+The "remote" repository that is the source of a fetch or pull operation. This parameter can be either a URL or the name of a remote (see the section REMOTES).
+
+“Git Add”: This command updates the index using the current content found in the working tree, to prepare the content staged for the next commit. It typically adds the current content of existing paths as a whole, but with some options it can also be used to add content with only part of the changes made to the working tree files applied or remove paths that do not exist in the working tree anymore.
+
+“Git Remove”: A user can remove a branch by simply typing in ‘git push origin  :<location>’ 
+“Git Show”: Is the default for ‘git log’…git-show is a command line utility that is used to view expanded details on Git objects such as blobs, trees, tags, and commits. git-show has specific behavior per object type. Tags show the tag message and other objects included in the tag. Trees show the names and content of objects in a tree.
+
 ## Git Status
 
 ## Master Branch
