@@ -10,8 +10,8 @@ Docker allows developers to share projects and run them in a similar format to e
 
 ## Automated testing 
 
-This is a way to debug code by running your program through a large set of test scenarios and conditions. 
+This is a way to debug code by running your program through a large set of test scenarios and conditions. Automated testing is the application of tools and technology to testing software with the goal of reducing testing efforts, delivering capability faster and more affordably. It helps in building better quality software with less effort.
 
 ## Continuous Integration 
 
-This is similar to git in that it allows a team to individually work on the same project and integrate each of their contributions all at once, meaning each team member can work on the project without having to wait to get the most updated version of the project.
+This is similar to git in that it allows a team to individually work on the same project and integrate each of their contributions all at once. Each team member can work on the project on their branch without having to wait to get the most updated version of the project. Their code is then merged to a single working branch. This ensures that everyone's code is working properly and is well-tested. In conclusion, continuous integration is basically when you automatically test every single commit/push.
