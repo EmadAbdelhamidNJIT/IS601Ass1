@@ -21,6 +21,12 @@
 
 3/7/2021: Azra updated sources 
 
+3/7/2021: Dalitza added Definitions of Repository, Clone, Fork, Branch, Remote Add/ Remove/Show, Git status, Master Branch
+
+3/7/2021: Dalitza added steps to set on Git. 
+
+3/8/2021:
+
 
 
 # Sources 
