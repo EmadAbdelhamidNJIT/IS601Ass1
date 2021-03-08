@@ -7,6 +7,19 @@
 ## Fork 
 
 ## Branch
+Branches are an important part of working with Git. Any commits you make will be made on the branch you’re currently “checked out”
+
+$ git branch [branch-name]
+
+Creates a new branch
+
+$ git checkout [branch-name]
+
+Switches to the specified branch and updates the working directory
+
+$ git branch -d [branch-name]
+
+Deletes the specified branch
 
 ## Commit - a git command that allows you to change a file or set of files; It is like a snapshot of your project.
 
