@@ -62,6 +62,10 @@ The "remote" repository that is the source of a fetch or pull operation. This pa
 “Git Show”: Is the default for ‘git log’…git-show is a command line utility that is used to view expanded details on Git objects such as blobs, trees, tags, and commits. git-show has specific behavior per object type. Tags show the tag message and other objects included in the tag. Trees show the names and content of objects in a tree.
 
 ## Git Status
+git status command displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git.
+
+While working on the project, after every ‘git add –all’ commit I checkout the status of my branch, if I committed the message using the wrong name it returns a message ‘untracked files ~$ster Branch.docx’ I realize the misspelling deviated the commit.
+
 
 ## Master Branch
 
