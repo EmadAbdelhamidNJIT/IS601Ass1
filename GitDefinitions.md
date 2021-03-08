@@ -1,6 +1,7 @@
 # Definitions 
 
 ## Repository 
+Is a project folder, this is the place that holds all branches and commits. Every project collaborator will push and merge work in to the main repository and present it as one complete project.
 
 ## Clone
 a local version of a repository, including all commits and branches
