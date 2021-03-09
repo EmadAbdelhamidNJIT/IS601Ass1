@@ -9,7 +9,19 @@ Create a step by step tutorial that explains how to set up Git and work collabor
 
 3.  Adding a collaborator to a Github Repo.
 
-## Setting Up Git 
+## Setting Up Git - this can be installed on an Apple or Windows operating system, this following are instructions to install Git on Windows. 
+
+There are also a few ways to install Git on Windows. The most official build is available for download on the Git website. Just go to https://git-scm.com/download/win and the download will start automatically.
+
+Another easy way to get Git installed is by installing GitHub Desktop. The installer includes a command line version of Git as well as the GUI. Once Git is on your system, it must be configured. On Windows systems, Git looks for the .gitconfig file in the $HOME directory (C:\Users\$USER for most people). It also still looks for [path]/etc/gitconfig, although it’s relative to the MSys root, which is wherever you decide to install Git on your Windows system when you run the installer. If you are using version 2.x or later of Git for Windows, there is also a system-level config file at C:\Documents and Settings\All Users\Application Data\Git\config on Windows XP, and in C:\ProgramData\Git\config on Windows Vista and newer. This config file can only be changed by git config -f <file> as an admin.
+  
+ Next you should configure your editor. On a Windows system, if you want to use a different text editor, you must specify the full path to its executable file. This can be different depending on how your editor is packaged.
+
+In the case of Notepad++, a popular programming editor, you are likely to want to use the 32-bit version, since at the time of writing the 64-bit version doesn’t support all plug-ins. If you are on a 32-bit Windows system, or you have a 64-bit editor on a 64-bit system, you’ll type something like this: 
+
+$ git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
+
+Finally, by default Git will open the main branch called master, just type in $git init
 
 1. In the upper-right corner of any page, use the  drop-down menu, and select New repository.
 
