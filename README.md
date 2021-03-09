@@ -40,3 +40,5 @@ https://www.digitalocean.com/community/tutorials/how-to-optimize-docker-images-f
 https://learngitbranching.js.org/
 
 https://git-scm.com/docs/gitglossary
+
+https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
