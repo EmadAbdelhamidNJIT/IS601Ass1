@@ -9,7 +9,7 @@ Create a step by step tutorial that explains how to set up Git and work collabor
 
 3.  Adding a collaborator to a Github Repo.
 
-## Setting Up Git - this can be installed on an Apple or Windows operating system, this following are instructions to install Git on Windows. 
+## Setting Up Git - this can be installed on an Apple or Windows operating system, the following are instructions to install Git on Windows. 
 
 There are also a few ways to install Git on Windows. The most official build is available for download on the Git website. Just go to https://git-scm.com/download/win and the download will start automatically.
 
@@ -22,6 +22,8 @@ In the case of Notepad++, a popular programming editor, you are likely to want t
 $ git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
 
 Finally, by default Git will open the main branch called master, just type in $git init
+
+### Instruction on installing GitHub to host Git project
 
 1. In the upper-right corner of any page, use the  drop-down menu, and select New repository.
 
