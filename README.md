@@ -25,7 +25,7 @@
 
 3/7/2021: Dalitza added steps to set on Git. 
 
-3/8/2021:
+3/8/2021:Dalitza added source
 
 
 
@@ -40,3 +40,5 @@ https://www.digitalocean.com/community/tutorials/how-to-optimize-docker-images-f
 https://learngitbranching.js.org/
 
 https://git-scm.com/docs/gitglossary
+
+https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
